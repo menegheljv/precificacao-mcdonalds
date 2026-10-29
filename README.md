@@ -7,6 +7,9 @@ Trabalho em grupo (Grupo 3) da disciplina de precificação.
 - João Victor Meneghel
 - Aline Conte
 - Ana Paula Hertel
+- Clara Martins
+- Isabela Manhães
+- Thayná
 
 ## Missão do Grupo 3: Estratégias de precificação
 
