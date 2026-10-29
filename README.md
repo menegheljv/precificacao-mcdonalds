@@ -2,6 +2,8 @@
 
 Trabalho em grupo (Grupo 3) da disciplina de precificação.
 
+**Página do trabalho:** https://menegheljv.github.io/precificacao-mcdonalds/
+
 ## Integrantes
 
 - João Victor Meneghel
