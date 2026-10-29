@@ -17,7 +17,7 @@ Trabalho em grupo (Grupo 3) da disciplina de precificação.
 
 Escolher uma oferta e comparar três possibilidades: custo, concorrência e valor. Definir qual estratégia é mais adequada e como o PP pode torná-la compreensível e convincente.
 
-**Oferta escolhida:** McDonald's, com o Big Mac como exemplo central
+**Oferta escolhida:** McDonald's, com o McLanche Feliz como exemplo central
 
 ## Todos os grupos devem
 
@@ -36,7 +36,7 @@ Escolher uma oferta e comparar três possibilidades: custo, concorrência e valo
 
 ## Tese do grupo
 
-A estratégia baseada em **valor** é a que mais pesa para a publicidade: o anúncio vende o que o cliente percebe que ganha (praticidade, sabor, marca, promoções como o McLanche Feliz e o app), não o custo do produto. Custo e concorrência servem de piso e de referência.
+Para a PP, a estratégia de **valor** é a mais vantajosa: permite campanhas que despertam emoções, geram identificação com o público e fortalecem o vínculo com a marca. No McLanche Feliz, a publicidade explora a nostalgia dos adultos e a diversão das crianças. Custo e concorrência servem de piso e de referência.
 
 ## Roteiro
 
