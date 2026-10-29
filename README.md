@@ -2,6 +2,12 @@
 
 Trabalho em grupo (Grupo 3) da disciplina de precificação.
 
+## Integrantes
+
+- João Victor Meneghel
+- Aline Conte
+- Ana Paula Hertel
+
 ## Missão do Grupo 3: Estratégias de precificação
 
 Escolher uma oferta e comparar três possibilidades: custo, concorrência e valor. Definir qual estratégia é mais adequada e como o PP pode torná-la compreensível e convincente.
