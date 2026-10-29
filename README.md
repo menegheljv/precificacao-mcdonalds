@@ -23,6 +23,10 @@ Escolher uma oferta e comparar três possibilidades: custo, concorrência e valo
 - `pesquisa/` fontes e dados coletados (sempre com fonte citada)
 - `apresentacao/` slides finais
 
+## Tese do grupo
+
+A estratégia baseada em **valor** é a que mais pesa para a publicidade: o anúncio vende o que o cliente percebe que ganha (praticidade, sabor, marca, promoções como o McLanche Feliz e o app), não o custo do produto. Custo e concorrência servem de piso e de referência.
+
 ## Roteiro
 
 1. Precificação baseada em custo
