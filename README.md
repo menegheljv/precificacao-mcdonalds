@@ -17,7 +17,7 @@ Trabalho em grupo (Grupo 3) da disciplina de precificação.
 
 Escolher uma oferta e comparar três possibilidades: custo, concorrência e valor. Definir qual estratégia é mais adequada e como o PP pode torná-la compreensível e convincente.
 
-**Oferta escolhida:** McDonald's
+**Oferta escolhida:** McDonald's, com o Big Mac como exemplo central
 
 ## Todos os grupos devem
 
